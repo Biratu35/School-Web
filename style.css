@@ -290,3 +290,10 @@ footer .social-icons {
   .cards { grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); }
   .contact-wrapper { grid-template-columns: 1fr 1fr; }
 }
+.enrolment-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
